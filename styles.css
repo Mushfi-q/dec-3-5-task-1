@@ -115,7 +115,7 @@ button{
 .image{
     min-height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(coverpic.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(coverpic2.jpeg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -144,4 +144,5 @@ transform: translateY(-2px);
 a:hover{
     transition: 0.3s;
     transform: scale(1.03);
+
 }
